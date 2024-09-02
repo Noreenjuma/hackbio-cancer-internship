@@ -1,0 +1,27 @@
+**Cancer and Drug resistance**
+
+There are different treatment regiments put forward for the treatment of cancer worldwide. These regiments include radiotherapy, chemotherapy, surgery, and medicines. These regiments have been very beneficial to cancer patients although one set back is the treatments derails the immune system of the patients making them susceptible to infections. These infections account for the hospitalization of 20% of cancer patients undergoing treatment and contribute to 8.5% of cancer-related deaths due to severe sepsis. In patients with cancers associated with blood forming tissues, the risk of infection arises from disease related impairments in neutrophil production by the bone marrow, defects in B-cell-mediated immunity, or lack of splenic function. For patients with solid tumours, severe neutropenia is rare, but other factors, such as damage to natural barriers like the skin and mucosal surfaces, as well as surgeries related to cancer, increase the risk of invasive infections(Bratti et al., 2023).
+
+Treatment of these infections require the use of antibiotics. Antibiotic resistance has previously been documented in various cases in health patients, and even in Cancer patients. Previous research has shown an increase in AMR among the following notorious microbes, _Enterococcus__ faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa,__ _and_ Enterobacter_ species, in immunocompromised patients. Among patients with Cancer, researchers have identified several pathogens including methicillin-resistant _Staphylococcus aureus_ (MRSA), _Enterobacter_ species with de-repressed chromosomal β-lactamase and ESBL production, _Pseudomonas aeruginosa_ resistant to both carbapenems and quinolones, and carbapenem-resistant _Acinetobacter baumannii(Nanayakkara et al., 2021).  In some cases, doctors must stop cancer treatment to manage infections caused by AMR pathogens. These derails cancer remission among this patients.  Autopsy’s have also done on patients previously diagnosed with cancer showed that infections associated with AMR pathogens are the leading cause of fatalities(Bratti et al., 2023). _
+
+_One of the notable case studies documented by National cancer institute in the US is multidrug resistant Klebsiella pneumoniae infections primarily found in patients with_ cancers associated with blood forming tissues who had undergone chemotherapy. These infections led to prolonged hospital stay and fatalities despite aggressive treatments(Hafiz et al., 2023). In another study in patients from Mexico City, cases of A. baumannii was recorded among patients with solid tumors. The patients’ line of cancer regiments included surgery, radiotherapy, and chemotherapy. The infections were hospital acquired(Cornejo-Juárez et al., 2020).__
+
+ _Antibiotic resistance has a great impact on the effectiveness of cancer therapy which extends beyond immediate patient outcome. A study involving about 200 cancer patients in the United Kingdom revealed that the use of broad-spectrum antibiotics in months before starting immunotherapy significantly derailed cancer patients’ outcomes. The overall survival rates of these patient had lowered, and the cancers likely processed when compared to patients who received antibiotics hand in hand with immunotherapy(Pinato et al., 2019)._
+
+In conclusion AMR presents a bi challenge in cancer care impacting the management and overall treatment efficacy. We need a comprehensive approach involving bacterial infections associated with Drug resistance in cancer patients. Tackling AMR will overall improve the outcomes for cancer patients.
+
+**References**
+
+Bratti, V. F., Wilson, B. E., Fazelzad, R., Pabani, A., Zurn, S. J., Johnson, S., Sung, L., & Rodin, D. (2023). Scoping review protocol on the impact of antimicrobial resistance on cancer management and outcomes. _BMJ Open_, _13_(2). https\://doi.org/10.1136/bmjopen-2022-068122
+
+Cornejo-Juárez, P., Cevallos, M. A., Castro-Jaimes, S., Castillo-Ramìrez, S., Velázquez-Acosta, C., Martìnez-Oliva, D., Pérez-Oseguera, A., Rivera-Buendìa, F., & Volkow-Fernández, P. (2020). High mortality in an outbreak of multidrug resistant Acinetobacter baumannii infection introduced to an oncological hospital by a patient transferred from a general hospital. _PLoS ONE_, _15_(7 July). https\://doi.org/10.1371/journal.pone.0234684
+
+Hafiz, T. A., Alanazi, S., Alghamdi, S. S., Mubaraki, M. A., Aljabr, W., Madkhali, N., Alharbi, S. R., Binkhamis, K., & Alotaibi, F. (2023). Klebsiella pneumoniae bacteraemia epidemiology: resistance profiles and clinical outcome of King Fahad Medical City isolates, Riyadh, Saudi Arabia. _BMC Infectious Diseases_, _23_(1). https\://doi.org/10.1186/s12879-023-08563-8
+
+Nanayakkara, A. K., Boucher, H. W., Fowler, V. G., Jezek, A., Outterson, K., & Greenberg, D. E. (2021). Antibiotic resistance in the patient with cancer: Escalating challenges and paths forward. _CA: A Cancer Journal for Clinicians_, _71_(6), 488–504. https\://doi.org/10.3322/caac.21697
+
+Pinato, D. J., Howlett, S., Ottaviani, D., Urus, H., Patel, A., Mineo, T., Brock, C., Power, D., Hatcher, O., Falconer, A., Ingle, M., Brown, A., Gujral, D., Partridge, S., Sarwar, N., Gonzalez, M., Bendle, M., Lewanski, C., Newsom-Davis, T., … Bower, M. (2019). Association of prior antibiotic treatment with survival and response to immune checkpoint inhibitor therapy in patients with cancer. _JAMA Oncology_, _5_(12), 1774–1778. https\://doi.org/10.1001/jamaoncol.2019.2785
+
+ ****
+
+ 
