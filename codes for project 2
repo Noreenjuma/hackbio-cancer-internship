@@ -1,0 +1,18 @@
+library(ggplot2)
+library(dplyr)
+
+# Count the occurrences of each Product.type
+product_type_counts <- WHO_AMR_PRODUCTS_DATA.tsv %>%
+  group_by(Product.type) %>%
+  summarize(count = n(), .groups = 'drop') %>%
+  mutate(percentage = count / sum(count) * 100)
+
+# Create a pie chart with percentage labels
+ggplot(product_type_counts, aes(x = "", y = count, fill = Product.type)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start = 0) +
+  theme_void() +  # Remove background, gridlines, etc.
+  labs(title = "Product Type Distribution") +
+  theme(legend.title = element_blank()) +  # Remove legend title
+  geom_text(aes(label = paste0(round(percentage, 1), "%")), 
+            position = position_stack(vjust = 0.5))
